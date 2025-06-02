@@ -1,0 +1,3 @@
+Project API Key : 09822b856a495a7dabfaa8810f614610
+
+Project API : https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
